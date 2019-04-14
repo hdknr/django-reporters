@@ -1,0 +1,4 @@
+# Tools
+ipython
+django-click
+beautifulsoup4
