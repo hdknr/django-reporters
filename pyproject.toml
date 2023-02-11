@@ -7,7 +7,7 @@ authors = ["user.name <gmail@hdknr.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 django-click = "^2.1.0"
-ipython = "^7.15.0"
+ipython = "^8.10.0"
 beautifulsoup4 = "^4.9.1"
 
 [tool.poetry.dev-dependencies]
